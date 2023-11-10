@@ -161,7 +161,7 @@ public class CreateNewProductJPanel extends javax.swing.JPanel {
         JOptionPane.showMessageDialog(this, "Product added!", "Info", JOptionPane.INFORMATION_MESSAGE);
         txtAvailability.setText(""); 
         txtName.setText("");
-        txtAvailability.setText(""); 
+        txtPrice.setText(""); 
 }//GEN-LAST:event_btnAddActionPerformed
 
     private void btnBackActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnBackActionPerformed
